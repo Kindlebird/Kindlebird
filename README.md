@@ -1,16 +1,32 @@
-## Hi there 👋
+## 👋 Hi, I'm an HR Tech & Automation Specialist
 
-<!--
-**Kindlebird/Kindlebird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+HR professional focused on transforming operations through **automation, data, and systems thinking**.  
+I combine expertise in payroll and HR processes with technical skills to build scalable, data-driven solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Tech & Tools
+
+**Python · SQL (MySQL) · Power BI · HRIS (Factorial, Sage)**  
+
+Automation | Data Analysis | Process Optimization
+
+---
+
+## 🚀 Focus
+
+- HR Systems & Automation  
+- People Analytics  
+- Workflow digitization  
+- Data-driven HR decision making  
+
+---
+
+## 📂 Projects
+
+Here you'll find practical work on:
+
+- SQL for HR analytics  
+- Python automation scripts  
+- Data pipelines & reporting  
+- Process optimization in HR  
