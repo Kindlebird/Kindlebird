@@ -1,4 +1,4 @@
-## 👋 Hi, I'm an HR Tech & Automation Specialist
+## 👋 Hi, I'm an HR Analytics & Automation Specialist
 
 HR professional focused on transforming operations through **automation, data, and systems thinking**.  
 I combine expertise in payroll and HR processes with technical skills to build scalable, data-driven solutions.
